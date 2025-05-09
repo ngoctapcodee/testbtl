@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993930253089",
+    "project_id": "project226-2",
+    "storage_bucket": "project226-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993930253089:android:eb34e5cae7448665afe460",
+        "android_client_info": {
+          "package_name": "com.uilover.project2262"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSURugAEIbo2lbSGKR5Zykx10yQnun-kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
